@@ -2,7 +2,7 @@ name: io_ext
 description: Extensions to dart:io to simplify usage with File and Directory objects.
 repository: https://github.com/islandlifetech/io_ext
 
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: ^3.13.0
